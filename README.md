@@ -18,7 +18,7 @@ Data analytics internship task covering data cleaning, exploratory data analysis
 |---|---|
 | `ecommerce_cleaning_eda.ipynb` | Full notebook: cleaning + EDA + visualizations + insights (E-commerce) |
 | `netflix_cleaning_eda.ipynb` | Full notebook: cleaning + EDA + visualizations + insights (Netflix) |
-| `OnlineRetail_Cleaned.csv` | Cleaned E-commerce dataset |
+| `OnlineRetail_Cleaned.csv` | Cleaned E-commerce dataset — *file exceeds GitHub's 25MB limit; [available on Google Drive](https://drive.google.com/drive/folders/1Tdui9H8Fk80qf97UW0ICNrdPfTWaqLsv?usp=drive_link)* |
 | `Netflix_Cleaned.csv` | Cleaned Netflix dataset |
 | `Week1-2_Summary_Report.docx` | One-page summary report (E-commerce) |
 | `Netflix_Summary_Report.docx` | One-page summary report (Netflix) |
